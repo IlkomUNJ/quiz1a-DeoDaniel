@@ -1,5 +1,6 @@
 # Identity
-Name : ...............
+Name : Daniel Tadeo Evantiyasa
+NIM : 1313624028
 
 # Instruction 
 for today quiz in class A, complete the following
